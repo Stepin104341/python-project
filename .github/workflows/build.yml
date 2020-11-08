@@ -22,4 +22,4 @@ jobs:
         python-version: 3.8
     - name: Build pytho project
       run: |
-        python3 python-project/python/main.py
+        python3 python/main.py
